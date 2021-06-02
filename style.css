@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+body, body * {
+    font-family: Verdana, Tahoma, sans-serif,  !important;
+}
+.txt_marque{
+    color: #bee4f3;
+}
+.bg-custom-2 {
+    background-image: linear-gradient(15deg, #4251df 0%, #0a4420 100%);
+    
+} .jumbotron{
+    background-image: url(img/bg_jmb3.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.bg6{
+    background-image: url(img/ft_bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+  }
+  .prjk a{
+      text-decoration: none;
+      padding: 2px;
+      margin-right: 5px;
+      color: #3b9412;
+  }
+  .active { 
+    font-weight: bold;
+    font-style: italic;
+    padding: 2px;
+    margin-right: 5px;
+}
+#bindo{
+    font-weight: bold;
+}
+#secing { display: none; }
